@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "assemblyai": {
+      "type": "command",
+      "command": "npx",
+      "args": ["-y", "@assemblyai/mcp-server"],
+      "env": {
+        "ASSEMBLYAI_API_KEY": "${ASSEMBLYAI_API_KEY}"
+      }
+    }
+  }
+}
