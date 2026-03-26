@@ -1,3 +1,5 @@
+[![Listed in Claude Code Repos Index](https://img.shields.io/badge/Claude%20Code-Repos%20Index-blue?style=flat-square&logo=github)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 # I'm Not Okay
 
 A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) template that turns voice memos into structured problem summaries — for personal reflection or to share with a therapist, counsellor, or anyone you're getting support from.
@@ -95,3 +97,7 @@ If you are in crisis, please contact a crisis helpline in your country or go to 
 ## License
 
 Open source. Use it, fork it, adapt it.
+
+---
+
+For more Claude Code projects, visit [my index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
