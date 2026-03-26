@@ -16,6 +16,7 @@ The user will provide a path to an audio file (e.g. on their desktop). If no pat
    - `problems-summary` — extracts and describes each discrete problem
    - `problems-categorisation` — groups problems into categories
    - `priority-assessment` — orders problems by suggested priority
+   - `pathways-recommendation` — suggests practical next steps and support pathways
 
 6. **Check for user profile**: If `USER_PROFILE.md` exists at the repo root, pass it to each analysis subagent so outputs can be tailored to the user's support context (e.g. mentioning therapy if they're in therapy, or keeping suggestions general if they're not).
 

@@ -2,9 +2,9 @@ Delete all demo/example data from the repository so the user can start fresh wit
 
 ## What gets deleted
 
-- `input/2603/` (demo audio file)
-- `raw/2603/` (demo raw transcript)
-- `output/2603/` (demo edited transcript and analysis outputs)
+- `input/demo/` (demo audio files)
+- `raw/demo/` (demo raw transcripts)
+- `output/demo/` (demo edited transcripts and analysis outputs)
 - `project-idea/` (project concept voice memo and transcript)
 
 ## What is preserved
@@ -18,7 +18,7 @@ Delete all demo/example data from the repository so the user can start fresh wit
 
 ## Steps
 
-1. Confirm with the user before deleting: "This will remove all demo data (input/2603, raw/2603, output/2603, and project-idea/). Your own data and all configuration will be preserved. Proceed?"
+1. Confirm with the user before deleting: "This will remove all demo data (input/demo, raw/demo, output/demo, and project-idea/). Your own data and all configuration will be preserved. Proceed?"
 
 2. If confirmed, delete the listed directories.
 

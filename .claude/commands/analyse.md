@@ -10,6 +10,7 @@ Use this when a transcript already exists and you want to regenerate the analysi
    - `problems-summary` — discrete problem descriptions
    - `problems-categorisation` — grouped by category
    - `priority-assessment` — ordered by suggested priority
+   - `pathways-recommendation` — practical next steps and support pathways
 
 3. **Check for user profile**: If `USER_PROFILE.md` exists, pass it to each subagent for tailored outputs.
 

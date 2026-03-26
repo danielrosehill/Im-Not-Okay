@@ -39,8 +39,9 @@ output/                                 # All processed outputs
     DDMMYY_problems_summary.md          # Each problem described individually
     DDMMYY_problems_categorised.md      # Problems grouped by theme
     DDMMYY_priority.md                  # Suggested priority ordering
+    DDMMYY_pathways.md                  # Practical next steps and support pathways
 
-USER_PROFILE.md                         # User's support context and preferences (created by /init)
+USER_PROFILE.md                         # User's support context and preferences (fill in or use /init)
 project-idea/                           # Project concept and background notes
 ```
 
@@ -63,6 +64,7 @@ project-idea/                           # Project concept and background notes
 | `problems-summary` | sonnet | Extracts and describes each discrete problem mentioned |
 | `problems-categorisation` | sonnet | Groups problems into thematic categories with cross-cutting themes |
 | `priority-assessment` | sonnet | Orders problems by suggested priority with summaries |
+| `pathways-recommendation` | sonnet | Suggests practical next steps and support pathways |
 
 ## AssemblyAI
 
@@ -83,5 +85,5 @@ Analysis subagents read this file to tailor their output tone and framing.
 - This tool organises information — it does not provide advice, diagnosis, or treatment
 - All analysis is based solely on what the user said in their voice memo
 - Outputs are starting points for reflection or conversation, not clinical assessments
-- The demo data in `input/2603/` is real context provided for demonstration purposes
+- The demo data in `input/demo/`, `raw/demo/`, and `output/demo/` is real context provided for demonstration purposes
 - This is a template — fork it and use it with your own voice memos
